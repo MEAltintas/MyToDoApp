@@ -1,0 +1,8 @@
+CREATE TABLE Todos (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Title NVARCHAR(200) NOT NULL,
+    Description NVARCHAR(1000) NULL,
+    IsCompleted BIT DEFAULT 0,
+    CreatedDate DATETIME DEFAULT GETDATE(),
+    UpdatedDate DATETIME NULL
+);

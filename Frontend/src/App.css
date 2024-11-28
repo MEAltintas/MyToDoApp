@@ -1,0 +1,110 @@
+/* Genel uygulama stili */
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.app-title {
+  text-align: center;
+  font-size: 70px;
+  color: #df3c7d;
+  margin-bottom: 50px;
+}
+
+/* Form alanları */
+.todo-form {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.btn-submit {
+  width: 50%;
+  background-color: #df3c7d;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  display: block; /* Varsayılan inline-block olduğu için block yapılmalı */
+  margin: 10px auto;
+  }
+
+.btn-submit:hover {
+  background-color: #ca2a6a;
+}
+
+/* Todo listesi */
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.todo-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.todo-item.completed .todo-title {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.todo-content {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.todo-checkbox {
+  width: 20px;
+  height: 20px;
+}
+
+.todo-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.todo-description {
+  font-size: 15px;
+  color: gray;
+}
+
+.btn-delete {
+  background: none;
+  border: none;
+  color: #df3c7d;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+
+.btn-delete:hover {
+  color: #ca2a6a;
+}
+
+/* Yüklenme animasyonu */
+.loading {
+  text-align: center;
+  font-size: 16px;
+}

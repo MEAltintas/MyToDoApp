@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|c:\\users\\mezgi\\onedrive\\masa\u00FCst\u00FC\\backend\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|c:\\users\\mezgi\\onedrive\\masa\u00FCst\u00FC\\backend\\todoapi\\todoapi\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|c:\\users\\mezgi\\onedrive\\masa\u00FCst\u00FC\\backend\\todoapi\\todoapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|c:\\users\\mezgi\\onedrive\\masa\u00FCst\u00FC\\backend\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A8AA5-AA17-40F3-96E1-8087A6CBD1EE}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Data\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Data\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Data\\TodoContext.cs",
+              "RelativeToolTip": "TodoAPI\\Data\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:40:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAywFwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:41:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Program.cs",
+              "RelativeToolTip": "TodoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:42:18.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\mezgi\\OneDrive\\Masa\u00FCst\u00FC\\Backend\\TodoAPI\\TodoAPI\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoAPI\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:39:47.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
